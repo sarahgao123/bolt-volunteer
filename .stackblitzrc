@@ -1,0 +1,7 @@
+{
+  "startCommand": "npm run dev",
+  "env": {
+    "VITE_SUPABASE_URL": "https://mrofmonapprssrhsfebk.supabase.co",
+    "VITE_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1yb2Ztb25hcHByc3NyaHNmZWJrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzUwMDIxMzIsImV4cCI6MjA1MDU3ODEzMn0.wddA67ALaZo12PcuIqOiq-j8FGZ07D8Amd4tIHW9PZc"
+  }
+}
